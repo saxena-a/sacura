@@ -35,7 +35,7 @@ export const Partners: React.FC = () => {
                   Protocol <br/> Partners.
                 </h2>
                 <p className="text-xl md:text-3xl text-secondary font-light leading-tight">
-                    Sacura is not seeking customers—we're seeking collaborators. Research institutions, industrial partners, and strategic investors who understand that building fundamental technology requires conviction.
+                    Sacura is not seeking customers–we're seeking collaborators. Research institutions, industrial partners, and strategic investors who understand that building fundamental technology requires conviction.
                 </p>
             </div>
             <div className="hidden lg:block pb-2">
@@ -58,7 +58,7 @@ export const Partners: React.FC = () => {
           />
           <PartnerCard 
             title="Strategic Angels" 
-            desc="Investors with hard-tech appetite and patience for deep R&D. We're building infrastructure, not features—this takes time and conviction."
+            desc="Investors with hard-tech appetite and patience for deep R&D. We're building infrastructure, not features–this takes time and conviction."
             seeking={["Pre-seed Support", "Strategic Guidance", "Network"]}
           />
         </div>

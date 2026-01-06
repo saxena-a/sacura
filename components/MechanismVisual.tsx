@@ -36,7 +36,7 @@ export const MechanismVisual: React.FC = () => {
       <StepCard 
         number="01" 
         title="Create the Vacuum" 
-        description="We create a permanent air-tight seal. This freezes a unique pattern of particles in a state of 'Locked Symmetry'—the base of our physical lock."
+        description="We create a permanent air-tight seal. This freezes a unique pattern of particles in a state of 'Locked Symmetry'–the base of our physical lock."
       >
          <svg className="w-8 h-8 md:w-10 md:h-10" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
            <circle cx="12" cy="12" r="10" />
