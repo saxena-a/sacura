@@ -234,7 +234,7 @@ const App: React.FC = () => {
                         </div>
                     </a>
                     
-                    <a href="https://linkedin.com" target="_blank" className="group block py-10 md:py-16 relative overflow-hidden">
+                    <a href="https://www.linkedin.com/company/sacura-ch/" target="_blank" className="group block py-10 md:py-16 relative overflow-hidden">
                         <div className="absolute inset-0 bg-white translate-y-full group-hover:translate-y-0 transition-transform duration-700 cubic-bezier(0.16, 1, 0.3, 1)"></div>
                         <div className="relative z-10 px-0 md:pl-12 group-hover:px-8 transition-all duration-700">
                              <div className="font-mono text-[10px] uppercase tracking-[0.2em] text-white/40 mb-4 group-hover:text-black/60">Social</div>
