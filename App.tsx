@@ -162,7 +162,7 @@ const App: React.FC = () => {
                     role: "Founding Engineer", 
                     desc: "Architecting the core technology. Merging research-grade physics with scalable engineering to bring the vacuum seal concept to reality.",
                     ln: "dankrick",
-                    email: "aryan.saxena@tepotec.ch"
+                    email: <a href="mailto:aryan.saxena@tepotec.ch"> "aryan.saxena@tepotec.ch" </a>
                   }
                 ].map((m, i) => (
                   <div key={i} className="group relative">
