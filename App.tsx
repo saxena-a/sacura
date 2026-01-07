@@ -154,7 +154,7 @@ const App: React.FC = () => {
                   { 
                     name: "Dario Duran", 
                     role: "Founder", 
-                    desc: "Leading the vision to secure the physical world. Leveraging expertise in material systems to close the trust gap in global supply chains.",
+                    desc: "Leading the vision to secure the physical world. Exploring how physical systems can signal integrity, not just identity, across supply chains.",
                     ln: "dario-duran"
                   },
                   { 
