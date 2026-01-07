@@ -178,7 +178,7 @@ const App: React.FC = () => {
                             </a>
                         </div>
                         <p className="text-xl text-secondary font-light leading-relaxed mb-6">{m.desc}</p>
-                        {m.email && <div className="font-mono text-[10px] text-secondary/40 uppercase tracking-widest">{m.email}</div>}
+                        {m.email && <div className="font-mono text-[10px] text-secondary/40 uppercase tracking-widest  bg-black text-white inline-block">{m.email}</div>}
                     </div>
                   </div>
                 ))}
